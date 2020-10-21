@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "614449600892",
+    "firebase_url": "https://logindesignapp-e2090.firebaseio.com",
+    "project_id": "logindesignapp-e2090",
+    "storage_bucket": "logindesignapp-e2090.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614449600892:android:a3cd24d196bd9ec56e2cf9",
+        "android_client_info": {
+          "package_name": "com.demo.logindesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614449600892-b4tcc9uh9bviktrcdbp5tc749p0hmaj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXGu1Ba5Yo8qs41xs3mCYOkUyLzlgQOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614449600892-b4tcc9uh9bviktrcdbp5tc749p0hmaj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614449600892:android:fd568a6fc85636256e2cf9",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614449600892-b4tcc9uh9bviktrcdbp5tc749p0hmaj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXGu1Ba5Yo8qs41xs3mCYOkUyLzlgQOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614449600892-b4tcc9uh9bviktrcdbp5tc749p0hmaj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
